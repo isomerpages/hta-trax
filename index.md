@@ -1,6 +1,6 @@
 ---
-layout: HomePage
-title: HomePage
+layout: homepage
+title: Isomer Site
 description: Ths is the HT TraX 2020 website
 image: /images/Home2.png
 permalink: 
