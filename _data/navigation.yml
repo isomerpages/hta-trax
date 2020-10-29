@@ -7,8 +7,6 @@
 logo: /images/Home2.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Home
     collection: home
   - title: Award Winners
