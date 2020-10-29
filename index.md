@@ -2,7 +2,7 @@
 layout: HTA
 title: HTA
 description: Ths is the HT TraX 2020 website
-image: /images/home2.png
+image: /images/Home2.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
