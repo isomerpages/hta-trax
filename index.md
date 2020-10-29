@@ -6,12 +6,13 @@ image: /images/Home2.png
 permalink: 
 notification: Welcome to Home Team Training Excellence Award 2020 Website ! 
 sections:
-        title: Home Team Training Excellence Awards 2020 
-        subtitle: Welcome
+-hero: 
+        title: Hero subtitle
+        subtitle: Hero subtitle
         background: /images/HT Trax Logo_2018.png
         button: Contact Us
         url: /contact-us/
-              key_highlights:
+        key_highlights:
             - title: Testing 123
               description: Important highlight A is important
               url: https://yahoo.com
