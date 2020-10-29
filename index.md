@@ -3,8 +3,8 @@ layout: HomePage
 title: HomePage
 description: Ths is the HT TraX 2020 website
 image: /images/Home2.png
-permalink: /contact-us
 notification: Welcome to Home Team Training Excellence Award 2020 Website ! 
+permalink: /
 sections:
     - hero:
         title: Home Team Training Excellence Awards 2020 
