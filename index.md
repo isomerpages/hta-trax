@@ -10,7 +10,7 @@ sections:
         title: Home Team Training Excellence Awards 2020 
         subtitle: Welcome
         background: /images/HT Trax Logo_2018.png
-            key_highlights:
+        key_highlights:
             - title: Testing 123
               description: Important highlight A is important
               url: https://yahoo.com
