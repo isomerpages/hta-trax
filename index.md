@@ -2,7 +2,7 @@
 layout: homepage
 title: Home Team Academy 
 description: Ths is the HT TraX 2020 website
-image: /images/home2.png
+image: /images/HTA logo.png
 permalink: /
 notification: Welcome to Home Team Training Excellence Award 2020 Website! 
 sections:
