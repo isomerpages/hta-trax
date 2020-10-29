@@ -15,7 +15,7 @@ sections:
         key_highlights:
             - title: Testing 123
               description: Important highlight A is important
-              url: /myfirstpage
+              url: /myfirstpage/
             - title: Testing 456
               description: Important highlight B is equally important
               url: https://gmail.com
