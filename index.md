@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: Home Team Academy 
 title: Home Team Academy
 description: Brief site description here
 image: /images/home2.png
