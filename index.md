@@ -6,7 +6,6 @@ image: /images/Home2.png
 notification: Welcome to Home Team Training Excellence Award 2020 Website ! 
 permalink: /myfirstpage
 sections:
-    - hero:
         title: Home Team Training Excellence Awards 2020 
         subtitle: Welcome
         background: /images/HT Trax Logo_2018.png
