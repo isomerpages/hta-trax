@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Home Team Academy 
 description: Ths is the HT TraX 2020 website
 image: /images/home2.png
 permalink: /
