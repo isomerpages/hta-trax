@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Home Team Training Excellence Awards 2020 
         subtitle: Hero subtitle
-        background: /images/HT Trax Logo_2018.jpg
+        background: /images/HT Trax Logo_2018.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
