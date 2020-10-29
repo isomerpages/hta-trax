@@ -11,10 +11,10 @@ sections:
         subtitle: Welcome
         background: /images/HT Trax Logo_2018.png
         key_highlights:
-            - title: Highlight A
+            - title: Testing 123
               description: Important highlight A is important
               url: https://google.com
-            - title: Highlight B
+            - title: Testing 456
               description: Important highlight B is equally important
               url: https://gmail.com
             - title: Page A
