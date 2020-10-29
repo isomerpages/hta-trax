@@ -4,7 +4,7 @@ title: HTA
 description: Ths is the HT TraX 2020 website
 image: /images/Home2.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome to Home Team Training Excellence Award 2020 Website ! 
 sections:
     - hero:
         title: Home Team Training Excellence Awards 2020 
@@ -13,7 +13,7 @@ sections:
         key_highlights:
             - title: Testing 123
               description: Important highlight A is important
-              url: https://www.youtube.com/watch?v=gPlCJadZe7Y
+              url: https://yahoo.com
             - title: Testing 456
               description: Important highlight B is equally important
               url: https://gmail.com
