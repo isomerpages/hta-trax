@@ -3,8 +3,8 @@ layout: homepage
 title: Isomer Site
 description: Ths is the HT TraX 2020 website
 image: /images/home2.png
-permalink: 
-notification: Welcome to Home Team Training Excellence Award 2020 Website ! 
+permalink: /
+notification: Welcome to Home Team Training Excellence Award 2020 Website! 
 sections:
 -hero: 
         title: Hero subtitle
