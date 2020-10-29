@@ -1,7 +1,7 @@
 ---
-layout: Home Team Academy 
-title: Home Team Academy
-description: Brief site description here
+layout: HTA
+title: HTA
+description: Ths is the HT TraX 2020 website
 image: /images/home2.png
 permalink: /
 notification: Here's a notification bar you can use!
@@ -13,7 +13,7 @@ sections:
         key_highlights:
             - title: Testing 123
               description: Important highlight A is important
-              url: https://google.com
+              url: https://www.youtube.com/watch?v=gPlCJadZe7Y
             - title: Testing 456
               description: Important highlight B is equally important
               url: https://gmail.com
